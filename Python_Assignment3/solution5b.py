@@ -35,7 +35,7 @@ def delete_employees(employee_ids, input_file, output_file, filename):
 
     return data
 
-updated_data = delete_employees([5803,8002],
+updated_data = delete_employees([8743,3593],
                                 'Employee_Personal_Details.json', 
                                 'Updated_Employee_Personal_Details.json', 
                                 'Terminated_Employee_Names.json')

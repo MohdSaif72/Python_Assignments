@@ -1,0 +1,20 @@
+__main__ validate 
+2024-03-06 00:56:00 {'args': (<function even_squares at 0x000002B0A0895580>,), 'kwargs': {}}
+Execution time: 0.0 seconds
+
+__main__ generate_fake_data 
+2024-03-06 00:56:10 {'args': (55,), 'kwargs': {}}
+Execution time: 0.01700282096862793 seconds
+
+__main__ aggregate 
+2024-03-06 00:56:21 {'args': ('Employee_Personal_Details.json', 'Aggregated_Details.json'), 'kwargs': {}}
+Execution time: 0.0010001659393310547 seconds
+
+__main__ delete_employees 
+2024-03-06 00:57:07 {'args': ([8743, 3593], 'Employee_Personal_Details.json', 'Updated_Employee_Personal_Details.json', 'Terminated_Employee_Names.json'), 'kwargs': {}}
+Execution time: 0.006001949310302734 seconds
+
+__main__ salary_hike 
+2024-03-06 00:57:12 {'args': ('Updated_Employee_Personal_Details.json',), 'kwargs': {}}
+Execution time: 0.0010001659393310547 seconds
+
