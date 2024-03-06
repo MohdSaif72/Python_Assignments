@@ -14,12 +14,13 @@ def log(func):
         execution_time = end_time - start_time
         current_date = time.strftime('%Y-%m-%d')
         current_time = time.strftime('%H:%M:%S')
-        arguments = kwargs
-
+        args_dict = {"args": args, "kwargs": kwargs}
+        result = func(*args,**kwargs)
+    
         file_name = f"{func.__module__}{current_date}.log"
         with open(file_name, 'a', encoding='utf-8') as file:
             file.write(f"{func.__module__} {func.__name__} \n")
-            file.write(f"{current_date} {current_time} {arguments}\n")
+            file.write(f"{current_date} {current_time} {args_dict}\n")
             file.write(f"Execution time: {execution_time} seconds\n\n")
 
         return result
