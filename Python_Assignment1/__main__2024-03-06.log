@@ -1,0 +1,24 @@
+__main__ occurence 
+2024-03-06 11:57:02 {'args': ('HAPPIESTMINDS',), 'kwargs': {}}
+Execution time: 0.0009999275207519531 seconds
+
+__main__ save_to_csv 
+2024-03-06 11:59:40 {'args': ({'System Idle Process': 1, 'System': 1, 'Registry': 1, 'dllhost.exe': 3, 'RuntimeBroker.exe': 6, 'smss.exe': 1, 'svchost.exe': 96, 'taskhostw.exe': 3, 'csrss.exe': 2, 'ctfmon.exe': 1, 'wininit.exe': 1, 'winlogon.exe': 1, 'services.exe': 1, 'lsass.exe': 1, 'fontdrvhost.exe': 2, 'SearchIndexer.exe': 1, 'dwm.exe': 1, 'SgrmBroker.exe': 1, 'AgentExecutor.exe': 1, 'slack.exe': 6, 'sihost.exe': 1, 'atiesrxx.exe': 1, 'amdfendrsr.exe': 1, 'Teams.exe': 10, 'atieclxx.exe': 1, 'powershell.exe': 6, 'MemCompression': 1, 'wlanext.exe': 1, 'conhost.exe': 12, 'spoolsv.exe': 1, 'armsvc.exe': 1, 'ACCSvc.exe': 1, 'mongod.exe': 1, 'mysqld.exe': 2, 'SenseNdr.exe': 1, 'SMSvcHost.exe': 2, 'RtkAudUService64.exe': 2, 'MsSense.exe': 1, 'ZSAService.exe': 1, 'uhssvc.exe': 1, 'WmiPrvSE.exe': 6, 'CmRcService.exe': 1, 'AggregatorHost.exe': 1, 'agentmonitor.exe': 1, 'aeagent.exe': 1, 'keyacc32.exe': 1, 'python.exe': 2, 'SenseCE.exe': 1, 'SenseTVM.exe': 1, 'TrustedInstaller.exe': 1, 'kass.exe': 1, 'ZSATrayManager.exe': 1, 'DefendpointService.exe': 1, 'explorer.exe': 1, 'ShellExperienceHost.exe': 1, 'CcmExec.exe': 1, 'StartMenuExperienceHost.exe': 1, 'ZSATray.exe': 1, 'GoogleCrashHandler.exe': 1, 'ZSATunnel.exe': 1, 'GoogleCrashHandler64.exe': 1, 'omadmprc.exe': 1, 'ZSAUpm.exe': 1, 'MsMpEng.exe': 1, 'TiWorker.exe': 1, 'MoUsoCoreWorker.exe': 1, 'SecurityHealthService.exe': 1, 'SecurityHealthSystray.exe': 1, 'dasHost.exe': 1, 'rundll32.exe': 1, 'SCNotification.exe': 1, 'Code.exe': 11, 'CompPkgSrv.exe': 1, 'smartscreen.exe': 1, 'TextInputHost.exe': 1, 'unsecapp.exe': 1, 'QAAgent.exe': 1, 'jusched.exe': 1, 'notepad.exe': 1, 'RtkUWP.exe': 1, 'QAAdminAgent.exe': 1, 'QASvc.exe': 1, 'ApplicationFrameHost.exe': 1, 'pacjsworker.exe': 1, 'PhoneExperienceHost.exe': 1, 'ePowerButton_NB.exe': 1, 'LockApp.exe': 1, 'fodhelper.exe': 1, 'OneDrive.exe': 1, 'WUDFHost.exe': 1, 'NisSrv.exe': 1, 'mmc.exe': 1, 'FileCoAuth.exe': 1, 'Microsoft.Management.Services.IntuneWindowsAgent.exe': 1, 'Microsoft.SharePoint.exe': 1, 'Avecto.IC3.Client.Host.exe': 1, 'SearchFilterHost.exe': 1, 'SearchProtocolHost.exe': 1, 'SystemSettings.exe': 1, 'omadmclient.exe': 1, 'SearchApp.exe': 1},), 'kwargs': {}}
+Execution time: 0.0020017623901367188 seconds
+
+__main__ monitor_applications 
+2024-03-06 12:00:01 {'args': ([{'process_name': 'chrome.exe'}, {'process_name': 'notepad.exe'}, {'process_name': 'calc.exe'}, {'process_name': 'msedge.exe'}],), 'kwargs': {}}
+Execution time: 1.9767532348632812 seconds
+
+__main__ reverse 
+2024-03-06 12:00:14 {'args': ('my name is suraj',), 'kwargs': {}}
+Execution time: 0.0 seconds
+
+__main__ reverse 
+2024-03-06 12:00:25 {'args': ('my name is suraj',), 'kwargs': {}}
+Execution time: 0.0 seconds
+
+__main__ fib 
+2024-03-06 12:00:34 {'args': (5,), 'kwargs': {}}
+Execution time: 0.0 seconds
+
