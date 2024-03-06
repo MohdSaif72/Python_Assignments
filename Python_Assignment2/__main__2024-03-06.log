@@ -1,0 +1,28 @@
+__main__ grouped_days 
+2024-03-06 12:09:44 {'args': (), 'kwargs': {}}
+Execution time: 0.0 seconds
+
+__main__ dict_days 
+2024-03-06 12:09:56 {'args': (), 'kwargs': {}}
+Execution time: 0.0 seconds
+
+__main__ occur_char 
+2024-03-06 12:10:00 {'args': (), 'kwargs': {}}
+Execution time: 0.0010006427764892578 seconds
+
+__main__ create_table 
+2024-03-06 12:10:05 {'args': (), 'kwargs': {}}
+Execution time: 0.0009996891021728516 seconds
+
+__main__ export_to_excel 
+2024-03-06 12:11:03 {'args': ([('Monday', 'Tuesday'), ('Tuesday', 'Wednesday'), ('Wednesday', 'Thursday'), ('Thursday', 'Friday'), ('Friday', 'Saturday'), ('Saturday', 'Sunday')], 'consecutivedays'), 'kwargs': {}}
+Execution time: 0.3440744876861572 seconds
+
+__main__ export_to_excel 
+2024-03-06 12:11:03 {'args': (dict_values([(1, 'Mon', 'monday', 'MONDAY', 6), (2, 'Tue', 'tuesday', 'TUESDAY', 7), (3, 'Wed', 'wednesday', 'WEDNESDAY', 9), (4, 'Thu', 'thursday', 'THURSDAY', 8), (5, 'Fri', 'friday', 'FRIDAY', 6), (6, 'Sat', 'saturday', 'SATURDAY', 8), (7, 'Sun', 'sunday', 'SUNDAY', 6)]), 'InformationDay'), 'kwargs': {}}
+Execution time: 0.025003433227539062 seconds
+
+__main__ export_to_excel 
+2024-03-06 12:11:03 {'args': ((('Monday', {'m': 1, 'o': 1, 'n': 1, 'd': 1, 'a': 1, 'y': 1}), ('Tuesday', {'t': 1, 'u': 1, 'e': 1, 's': 1, 'd': 1, 'a': 1, 'y': 1}), ('Wednesday', {'e': 2, 'd': 2, 'w': 1, 'n': 1, 's': 1, 'a': 1, 'y': 1}), ('Thursday', {'t': 1, 'h': 1, 'u': 1, 'r': 1, 's': 1, 'd': 1, 'a': 1, 'y': 1}), ('Friday', {'f': 1, 'r': 1, 'i': 1, 'd': 1, 'a': 1, 'y': 1}), ('Saturday', {'a': 2, 's': 1, 't': 1, 'u': 1, 'r': 1, 'd': 1, 'y': 1}), ('Sunday', {'s': 1, 'u': 1, 'n': 1, 'd': 1, 'a': 1, 'y': 1})), 'OccurChar'), 'kwargs': {}}
+Execution time: 0.027005672454833984 seconds
+
