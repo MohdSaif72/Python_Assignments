@@ -1,0 +1,32 @@
+__main__ occurence 
+2024-03-05 19:05:59 {}
+Execution time: 0.0 seconds
+
+__main__ save_to_csv 
+2024-03-05 19:06:05 {}
+Execution time: 0.0010004043579101562 seconds
+
+__main__ monitor_applications 
+2024-03-05 19:06:12 {}
+Execution time: 3.8783113956451416 seconds
+
+__main__ monitor_applications 
+2024-03-05 19:06:40 {}
+Execution time: 3.9071078300476074 seconds
+
+__main__ occurence 
+2024-03-05 19:10:39 {}
+Execution time: 0.0009913444519042969 seconds
+
+__main__ reverse 
+2024-03-05 19:14:02 {}
+Execution time: 0.0 seconds
+
+__main__ reverse 
+2024-03-05 19:14:20 {}
+Execution time: 0.0 seconds
+
+__main__ fib 
+2024-03-05 19:15:02 {}
+Execution time: 0.0 seconds
+

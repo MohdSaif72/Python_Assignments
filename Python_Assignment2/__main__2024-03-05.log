@@ -1,0 +1,28 @@
+__main__ grouped_days 
+2024-03-05 20:13:08 {}
+Execution time: 0.0 seconds
+
+__main__ dict_days 
+2024-03-05 20:17:17 {}
+Execution time: 0.0 seconds
+
+__main__ occur_char 
+2024-03-05 20:19:55 {}
+Execution time: 0.0009999275207519531 seconds
+
+__main__ create_table 
+2024-03-05 20:28:37 {}
+Execution time: 0.003000020980834961 seconds
+
+__main__ export_to_excel 
+2024-03-05 20:34:55 {}
+Execution time: 0.5326697826385498 seconds
+
+__main__ export_to_excel 
+2024-03-05 20:34:55 {}
+Execution time: 0.04600954055786133 seconds
+
+__main__ export_to_excel 
+2024-03-05 20:34:55 {}
+Execution time: 0.021004199981689453 seconds
+

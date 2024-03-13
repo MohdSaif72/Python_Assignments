@@ -1,0 +1,5 @@
+solution.py:126:0: C0301: Line too long (130/100) (line-too-long)
+solution.py:15:4: R0913: Too many arguments (6/5) (too-many-arguments)
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 9.09/10, +0.00)
