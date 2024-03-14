@@ -26,11 +26,13 @@ User the above as input data and do the following.
 
 ## Features
 - Define an Employee class with attributes such as ID, name, email, business unit, and salary.
-  __init__(self, emp_id, emp_name, emp_email, business_unit, salary)
+  
+- __init __(self, emp_id, emp_name, emp_email, business_unit, salary)
 - Setter and getter methods for each attribute.
 - Utilize the Faker module to generate default values for attributes.
 - Convert employee data to JSON format.
-  json(self): Converts the employee object to a JSON object.
+  
+- json(self): Converts the employee object to a JSON object.
 - Write employee data to JSON files.
 - Load employee data from JSON files.
 
