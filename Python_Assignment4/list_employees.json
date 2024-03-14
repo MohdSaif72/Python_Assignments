@@ -1,9 +1,37 @@
 [
     {
         "EMP ID": 6074,
-        "EMP NAME": "Daniel Davis",
+        "EMP NAME": "Anthony Lewis",
         "EMP EMAIL": "rlester@example.org",
         "Business Unit": "Cars and Co.",
         "Salary": 94787
+    },
+    {
+        "EMP ID": 5875,
+        "EMP NAME": "Christina Sanford",
+        "EMP EMAIL": "simmonsrichard@example.com",
+        "Business Unit": "Cars and Co.",
+        "Salary": 71190
+    },
+    {
+        "EMP ID": 1750,
+        "EMP NAME": "Zachary Turner",
+        "EMP EMAIL": "jamie29@example.com",
+        "Business Unit": "IT",
+        "Salary": 92717
+    },
+    {
+        "EMP ID": 6207,
+        "EMP NAME": "Dustin Patterson",
+        "EMP EMAIL": "zwhite@example.com",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 67821
+    },
+    {
+        "EMP ID": 9433,
+        "EMP NAME": "Wayne Anderson",
+        "EMP EMAIL": "parkjohn@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 37845
     }
 ]

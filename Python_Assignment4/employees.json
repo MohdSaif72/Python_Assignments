@@ -1,1 +1,387 @@
-"employees.json"
+[
+    {
+        "EMP ID": 6074,
+        "EMP NAME": "Anthony Lewis",
+        "EMP EMAIL": "rlester@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 94787
+    },
+    {
+        "EMP ID": 5875,
+        "EMP NAME": "Christina Sanford",
+        "EMP EMAIL": "simmonsrichard@example.com",
+        "Business Unit": "Cars and Co.",
+        "Salary": 71190
+    },
+    {
+        "EMP ID": 1750,
+        "EMP NAME": "Zachary Turner",
+        "EMP EMAIL": "jamie29@example.com",
+        "Business Unit": "IT",
+        "Salary": 92717
+    },
+    {
+        "EMP ID": 6207,
+        "EMP NAME": "Dustin Patterson",
+        "EMP EMAIL": "zwhite@example.com",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 67821
+    },
+    {
+        "EMP ID": 9433,
+        "EMP NAME": "Wayne Anderson",
+        "EMP EMAIL": "parkjohn@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 37845
+    },
+    {
+        "EMP ID": 7563,
+        "EMP NAME": "Tammy Estes",
+        "EMP EMAIL": "martineztammy@example.org",
+        "Business Unit": "IT",
+        "Salary": 64361
+    },
+    {
+        "EMP ID": 4921,
+        "EMP NAME": "Anne Pena",
+        "EMP EMAIL": "trevorgraham@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 79150
+    },
+    {
+        "EMP ID": 6054,
+        "EMP NAME": "Jessica Ho",
+        "EMP EMAIL": "rebeccaharris@example.net",
+        "Business Unit": "IT",
+        "Salary": 35353
+    },
+    {
+        "EMP ID": 2358,
+        "EMP NAME": "Janet Williams",
+        "EMP EMAIL": "shane49@example.net",
+        "Business Unit": "Cars and Co.",
+        "Salary": 66666
+    },
+    {
+        "EMP ID": 3821,
+        "EMP NAME": "Daniel Lewis",
+        "EMP EMAIL": "sullivanbarbara@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 30015
+    },
+    {
+        "EMP ID": 1249,
+        "EMP NAME": "Mrs. Leah Obrien",
+        "EMP EMAIL": "davisaustin@example.com",
+        "Business Unit": "IT",
+        "Salary": 69683
+    },
+    {
+        "EMP ID": 6692,
+        "EMP NAME": "Cassandra Adams",
+        "EMP EMAIL": "ana19@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 64480
+    },
+    {
+        "EMP ID": 8345,
+        "EMP NAME": "Stephanie Mora",
+        "EMP EMAIL": "erinpope@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 41788
+    },
+    {
+        "EMP ID": 3719,
+        "EMP NAME": "Julie Blake",
+        "EMP EMAIL": "john20@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 61841
+    },
+    {
+        "EMP ID": 5115,
+        "EMP NAME": "Tasha Odonnell",
+        "EMP EMAIL": "winterswilliam@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 90479
+    },
+    {
+        "EMP ID": 5478,
+        "EMP NAME": "Kaylee Anderson",
+        "EMP EMAIL": "sfreeman@example.net",
+        "Business Unit": "IT",
+        "Salary": 54206
+    },
+    {
+        "EMP ID": 7891,
+        "EMP NAME": "Mark Smith",
+        "EMP EMAIL": "millerjames@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 35587
+    },
+    {
+        "EMP ID": 5445,
+        "EMP NAME": "Jerry Watkins",
+        "EMP EMAIL": "sharding@example.com",
+        "Business Unit": "IT",
+        "Salary": 75593
+    },
+    {
+        "EMP ID": 9229,
+        "EMP NAME": "Becky Campbell",
+        "EMP EMAIL": "grodriguez@example.com",
+        "Business Unit": "IT",
+        "Salary": 49420
+    },
+    {
+        "EMP ID": 9437,
+        "EMP NAME": "Hector Allen",
+        "EMP EMAIL": "farmerlindsay@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 62830
+    },
+    {
+        "EMP ID": 6077,
+        "EMP NAME": "Marc Vance",
+        "EMP EMAIL": "sellerscurtis@example.com",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 78693
+    },
+    {
+        "EMP ID": 4633,
+        "EMP NAME": "Benjamin Finley",
+        "EMP EMAIL": "wallacethomas@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 51005
+    },
+    {
+        "EMP ID": 4603,
+        "EMP NAME": "Joseph Jacobs",
+        "EMP EMAIL": "imiller@example.net",
+        "Business Unit": "IT",
+        "Salary": 98170
+    },
+    {
+        "EMP ID": 5787,
+        "EMP NAME": "Stephen Stone",
+        "EMP EMAIL": "danielturner@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 95326
+    },
+    {
+        "EMP ID": 5930,
+        "EMP NAME": "Todd Morris",
+        "EMP EMAIL": "foleysusan@example.com",
+        "Business Unit": "IT",
+        "Salary": 37195
+    },
+    {
+        "EMP ID": 2056,
+        "EMP NAME": "Jasmine Mccarthy",
+        "EMP EMAIL": "gthompson@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 42667
+    },
+    {
+        "EMP ID": 2656,
+        "EMP NAME": "Ryan Wilkins",
+        "EMP EMAIL": "brucesharon@example.net",
+        "Business Unit": "IT",
+        "Salary": 63686
+    },
+    {
+        "EMP ID": 9225,
+        "EMP NAME": "Jennifer Jennings",
+        "EMP EMAIL": "bakerpatrick@example.org",
+        "Business Unit": "IT",
+        "Salary": 67267
+    },
+    {
+        "EMP ID": 2406,
+        "EMP NAME": "Charles Edwards",
+        "EMP EMAIL": "danny28@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 60351
+    },
+    {
+        "EMP ID": 6345,
+        "EMP NAME": "Rebecca Reyes",
+        "EMP EMAIL": "larsonkristina@example.net",
+        "Business Unit": "IT",
+        "Salary": 30467
+    },
+    {
+        "EMP ID": 6366,
+        "EMP NAME": "Crystal Harris",
+        "EMP EMAIL": "karenrusso@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 69819
+    },
+    {
+        "EMP ID": 9196,
+        "EMP NAME": "Christopher Armstrong",
+        "EMP EMAIL": "pmaxwell@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 93951
+    },
+    {
+        "EMP ID": 8475,
+        "EMP NAME": "Sarah Payne",
+        "EMP EMAIL": "pamela71@example.net",
+        "Business Unit": "IT",
+        "Salary": 55328
+    },
+    {
+        "EMP ID": 6653,
+        "EMP NAME": "Jamie Pearson",
+        "EMP EMAIL": "richardsbrenda@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 74445
+    },
+    {
+        "EMP ID": 3782,
+        "EMP NAME": "Julie Tate",
+        "EMP EMAIL": "georgethomas@example.org",
+        "Business Unit": "IT",
+        "Salary": 66144
+    },
+    {
+        "EMP ID": 4367,
+        "EMP NAME": "Paul Doyle",
+        "EMP EMAIL": "vanessa25@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 39649
+    },
+    {
+        "EMP ID": 9819,
+        "EMP NAME": "Ronald Daniels",
+        "EMP EMAIL": "cohentara@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 63001
+    },
+    {
+        "EMP ID": 1959,
+        "EMP NAME": "Ashley Moore",
+        "EMP EMAIL": "michellepowell@example.org",
+        "Business Unit": "Cars and Co.",
+        "Salary": 90741
+    },
+    {
+        "EMP ID": 8491,
+        "EMP NAME": "Austin Lamb",
+        "EMP EMAIL": "mason09@example.org",
+        "Business Unit": "IT",
+        "Salary": 70761
+    },
+    {
+        "EMP ID": 9930,
+        "EMP NAME": "Amy Fuentes",
+        "EMP EMAIL": "kmatthews@example.org",
+        "Business Unit": "IT",
+        "Salary": 64290
+    },
+    {
+        "EMP ID": 3956,
+        "EMP NAME": "Katherine Mccormick",
+        "EMP EMAIL": "harrisdylan@example.com",
+        "Business Unit": "IT",
+        "Salary": 36790
+    },
+    {
+        "EMP ID": 9656,
+        "EMP NAME": "Yolanda Watson",
+        "EMP EMAIL": "alejandroandrews@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 70867
+    },
+    {
+        "EMP ID": 3644,
+        "EMP NAME": "Molly Lucas",
+        "EMP EMAIL": "oward@example.net",
+        "Business Unit": "Cars and Co.",
+        "Salary": 39955
+    },
+    {
+        "EMP ID": 4070,
+        "EMP NAME": "Michael Harrison",
+        "EMP EMAIL": "schneiderscott@example.com",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 94408
+    },
+    {
+        "EMP ID": 6217,
+        "EMP NAME": "Caitlin Cannon",
+        "EMP EMAIL": "william54@example.net",
+        "Business Unit": "IT",
+        "Salary": 84539
+    },
+    {
+        "EMP ID": 9144,
+        "EMP NAME": "Diane James",
+        "EMP EMAIL": "udavis@example.org",
+        "Business Unit": "IT",
+        "Salary": 64934
+    },
+    {
+        "EMP ID": 5945,
+        "EMP NAME": "Angela Hernandez",
+        "EMP EMAIL": "jeffreysmith@example.org",
+        "Business Unit": "IT",
+        "Salary": 30368
+    },
+    {
+        "EMP ID": 7564,
+        "EMP NAME": "Joshua Williams",
+        "EMP EMAIL": "johnsonanna@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 62552
+    },
+    {
+        "EMP ID": 7144,
+        "EMP NAME": "Melissa Thompson",
+        "EMP EMAIL": "danderson@example.org",
+        "Business Unit": "IT",
+        "Salary": 42884
+    },
+    {
+        "EMP ID": 1789,
+        "EMP NAME": "Mario Lewis",
+        "EMP EMAIL": "sharonmoody@example.com",
+        "Business Unit": "IT",
+        "Salary": 57870
+    },
+    {
+        "EMP ID": 2134,
+        "EMP NAME": "Renee Montes",
+        "EMP EMAIL": "williamgross@example.net",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 93329
+    },
+    {
+        "EMP ID": 2150,
+        "EMP NAME": "Jodi Andrade",
+        "EMP EMAIL": "zwatson@example.net",
+        "Business Unit": "Cars and Co.",
+        "Salary": 85176
+    },
+    {
+        "EMP ID": 7404,
+        "EMP NAME": "Laura Miller",
+        "EMP EMAIL": "weaverlisa@example.net",
+        "Business Unit": "IT",
+        "Salary": 45297
+    },
+    {
+        "EMP ID": 6056,
+        "EMP NAME": "Stephanie Logan",
+        "EMP EMAIL": "troyhernandez@example.com",
+        "Business Unit": "Cars and Co.",
+        "Salary": 81121
+    },
+    {
+        "EMP ID": 8865,
+        "EMP NAME": "Justin Gonzalez",
+        "EMP EMAIL": "thomastimothy@example.org",
+        "Business Unit": "Steel Ltd.",
+        "Salary": 77299
+    }
+]

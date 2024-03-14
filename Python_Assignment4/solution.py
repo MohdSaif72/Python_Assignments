@@ -1,4 +1,4 @@
-""" 
+"""
 The json module in Python provides functions for encoding and decoding JSON data
 """
 import json
@@ -12,7 +12,7 @@ class Employee:
     """
     This class represents an employee with attributes ID, name, email, business unit, and salary.
     """
-    def __init__(self, emp_id=None, emp_name=None, emp_email=None, business_unit=None, salary=None):
+    def __init__(self, emp_id, emp_name, emp_email, business_unit, salary):
         self.emp_id = emp_id
         self.emp_name = emp_name
         self.emp_email = emp_email
@@ -81,11 +81,12 @@ class Employee:
         """ setter method for salary"""
         self.salary = fake.random_int(min=30000, max=150000)
 
-    def write_to_file(self,employee_data, file_name='employees.json'):
+    @staticmethod
+    def write_to_file(employee_data, file_name='employees.json'):
         """ Writes data to a JSON file with specified formatting """
         with open(file_name, 'w',encoding='utf-8') as json_file:
             json.dump(employee_data, json_file, indent=4)
-
+            
     def json(self):
         """ Converts employee data to a JSON-compatible dictionary format """
         return {
@@ -95,19 +96,19 @@ class Employee:
             "Business Unit": self.business_unit,
             "Salary": self.salary
         }
-  
+    
     def one_data_file(self, file_name='employees.json'):
         """  Writes data of a single employee to a JSON file """
         employee_data = self.json()
         Employee.write_to_file(employee_data, file_name)
-    
+
     @classmethod
     def all_data_file(cls, employees, file_name='employees.json'):
         """ Writes data of multiple employees to a JSON file """
         employee_data = [emp.json() for emp in employees]
         cls.write_to_file(employee_data, file_name)
 
-@decorators.log
+@decorators.log   
 def employee_records(directory, file):
     """
     This method loads employee data from a JSON file specified by the directory and filename.
@@ -143,7 +144,8 @@ print("Name:", employee1.get_name())
 employee1.one_data_file("One_employee.json")
 
 # For a list of employees
-Employee.all_data_file(data[:1], "list_employees.json")
+Employee.all_data_file(data[:5], "list_employees.json")
 
 # For all employees (by default)
 Employee.all_data_file(data)
+

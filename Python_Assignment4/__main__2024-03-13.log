@@ -1,12 +1,5 @@
-__main__ employee_data 
-2024-03-13 16:06:52 {'args': ('C:\\Users\\mohd.ali\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\Python Assignments\\Python_Assignment3', 'Employee_Personal_Details.json'), 'kwargs': {}}
-Execution time: 0.0020055770874023438 seconds
+__main__ employee_records
+2024-03-13 22:47:05 {'args': ('C:\\Users\\mohd.ali\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\Python Assignments\\Python_Assignment3', 'Employee_Personal_Details.json'), 'kwargs': {}}
+Execution time: 0.0009906291961669922 seconds
 
-__main__ employee_records 
-2024-03-13 22:43:32 {'args': ('C:\\Users\\mohd.ali\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\Python Assignments\\Python_Assignment3', 'Employee_Personal_Details.json'), 'kwargs': {}}
-Execution time: 0.013002395629882812 seconds
-
-__main__ employee_records 
-2024-03-13 22:50:18 {'args': ('C:\\Users\\mohd.ali\\OneDrive - Happiest Minds Technologies Limited\\Desktop\\Python Assignments\\Python_Assignment3', 'Employee_Personal_Details.json'), 'kwargs': {}}
-Execution time: 0.01901698112487793 seconds
 
